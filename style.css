@@ -3,7 +3,7 @@ body {
 
     background-image: url("https://i.makeagif.com/media/12-20-2015/aptKVe.gif");
     background-size: cover;
-    color:darkgoldenrod;
+    color: red;
     display: flex;
     padding: 1em;
     flex-direction: column;
