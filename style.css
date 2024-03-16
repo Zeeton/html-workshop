@@ -23,10 +23,10 @@ body {
     gap: 3em;
     justify-content: center;
 }
-#photo:hover {
+#photo {
     animation-name: spin;
     animation-duration: 10s;
-    animation-iteration-count: infinite;
+    animation-iteration-count: initial;
 
 }
  @keyframes spin {
