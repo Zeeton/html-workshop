@@ -81,13 +81,3 @@ button:hover {
      0% {rotate: 0deg;}
      100% {rotate: 360deg;}
  }
- .container {
-    animation-name: spin;
-    animation-duration: 1s;
-    animation-iteration-count: infinite;
-
-}
- @keyframes spin {
-     0% {rotate: 0deg;}
-     100% {rotate: 360deg;}
- }
